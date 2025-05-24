@@ -1,9 +1,3 @@
 # elytra
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+That is so funny! :joy:
